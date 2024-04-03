@@ -44,6 +44,7 @@ Limitations
 FAQ
 ---
 **How can I use a `VectorDrawable` with `CircleImageView`?**
+** 한국어로 해줘~~~~
 
 Short answer: you shouldn't. Using a `VectorDrawable` with `CircleImageView` is very inefficient. You should modify your vectors to be in a circular shape and use them with a regular ImageView instead.
 
